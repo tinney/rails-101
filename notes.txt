@@ -1,3 +1,4 @@
-Lots of Obviously in opening.
+* Lots of 'Obviously' used in opening.
+* We talk about pry/irb after creating the Dog file.  Do we want to mention the  `-r` flag
 
 
