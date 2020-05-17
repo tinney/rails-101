@@ -1,4 +1,5 @@
 * Lots of 'Obviously' used in opening.
-* We talk about pry/irb after creating the Dog file.  Do we want to mention the  `-r` flag
+* We talk about pry/irb after creating the Dog file.  Do we want to mention the  `-r` flag for loading with a file? or using '-I' for adding the current path to the load path and using `load "dog.rb"` from irb?
+*
 
 

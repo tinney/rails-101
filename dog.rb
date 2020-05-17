@@ -1,12 +1,14 @@
-class Dog
-  attr_reader :name
+require_relative 'animal'
+
+class Dog < Animal
+  attr_accessor :name
 
   def initialize(name)
     @name = name
   end
 
   def speak
-    "Woof! My name is #{name}"
+    "Woof! #{super(name)}"
   end
 end
 
